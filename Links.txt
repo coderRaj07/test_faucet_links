@@ -1,0 +1,8 @@
+## for goerli test ethers
+https://goerlifaucet.com/
+
+## for test tokens
+https://staging.aave.com/
+
+## for other test tokens (consider swapping)
+https://app.uniswap.org/#/swap
